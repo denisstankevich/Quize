@@ -1,6 +1,6 @@
 import { Box, Card, CardBody, Image, Text } from "@chakra-ui/react";
 import { Link as RouterLink } from "react-router-dom";
-import basketball from "../../assets/images/basketball.png";
+import basketball from "@/assets/images/basketball.png";
 
 export default function CardItem() {
   return (

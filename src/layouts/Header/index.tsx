@@ -6,7 +6,7 @@ import {
   useColorModeValue,
 } from "@chakra-ui/react";
 import { Link as RouterLink } from "react-router-dom";
-import ColorModeToggle from "../../components/ColorModeToggle";
+import ColorModeToggle from "@/components/ColorModeToggle";
 
 export default function Header() {
   return (

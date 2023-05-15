@@ -1,5 +1,5 @@
 import { SimpleGrid } from "@chakra-ui/react";
-import CardItem from "../../components/CardItem";
+import CardItem from "@/components/CardItem";
 
 export default function Home() {
   return (
